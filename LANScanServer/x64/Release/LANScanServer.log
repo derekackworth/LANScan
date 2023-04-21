@@ -1,0 +1,7 @@
+﻿  LANScan.cpp
+  LANScanServer.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1954 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LANScanServer.vcxproj -> C:\Users\Derek\Documents\@\Coding\C++\LANScan\x64\Release\LANScanServer.exe
